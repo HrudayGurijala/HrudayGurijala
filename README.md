@@ -1,72 +1,55 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<p align="left">
-<a href="https://x.com/hrudayjiji" target="_blank"><img height="30" src="https://raw.githubusercontent.com/HrudayGurijala/HrudayGurijala/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hruday-gurijala-61b472248/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/HrudayGurijala/HrudayGurijala/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/hruday.gurijala_/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/31lkzvxps2kzsvdfr3lx5haxa5ty" target="_blank"><img height="30" src="https://raw.githubusercontent.com/HrudayGurijala/HrudayGurijala/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+I´m Hruday, final year at IIIT SRICITY.
 
-<br>
+## 🚀💻 Technologies & Tools
 
-Hi, I'm [Hruday Gurijala], a web developer 👨🏻‍💻 from Hyderabad,India. I'm a final year student at IIIT SRICITY. 
-
-<br>
-
-
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="" /> -->
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhxNzk2ZWlneWJvMzFqMjBrbm94ZjBjOGZqbW85cDlzY2k3ZDN2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TI9HiyUqRm75jPyKQ5/giphy.gif" />
-
- - 📫 How to reach me: [gurijalahruday@gmail.com](mailto:gurijalahruday@gmail.com); 
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HrudayGurijala" alt="AbhishekMaiara10" /> </p>
- 
- </br>
-
-**Languages and Tools:**
-<br>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
----
-### 📢 Find me elsewhere
-<p align="left">
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
-  <a href="https://leetcode.com/u/HrudayGurijala/">
-    <img src="https://raw.githubusercontent.com/HrudayGurijala/HrudayGurijala/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+  ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
+  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+  ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
+  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
+  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)
+  ![Icinga2](https://img.shields.io/badge/Icinga2-06062C?style=flat-square&logo=icinga)
+  ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+  ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
 
-<hr>
+  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 
-<details>
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HrudayGurijala&show_icons=true&theme=gotham" alt="hruday" />
+## ⚡ GitHub Stats
 
-</details>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HrudayGurijala&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HrudayGurijala&theme=gruvbox" />  
+<a href="https://github.com/HrudayGurijala/Code-It-main" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=Code-It-main&theme=gruvbox""></a>
+<a href="https://github.com/HrudayGurijala/learnflow" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=learnflow&theme=gruvbox""></a>
+<a href="https://github.com/HrudayGurijala/blogmandi" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=blogmandi&theme=gruvbox""></a>
+<a href="https://github.com/HrudayGurijala/PlantDiseaseRecognition" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=PlantDiseaseRecognition&theme=gruvbox""></a>  
 
-</br>
-
-<a href="https://github.com/HrudayGurijala/Code-It-main" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=Code-It-main&theme=dracula" />
-</a>
-<a href="https://github.com/HrudayGurijala/learnflow" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=learnflow&theme=dracula" />
-</a>
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HrudayGurijala.HrudayGurijala)
