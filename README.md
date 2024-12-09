@@ -1,28 +1,64 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi, I'm Hruday
 
-I´m Hruday, final year at IIIT SRICITY.
+<div align="right">
+  <a href="https://buymeacoffee.com/gurijalahrk">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  </a>
+</div>
 
-## ⚡ GitHub Stats
+<p align="center">
+  <a href="https://hrudaygurijala.netlify.app">
+    <img  src="" alt="logo" />
+  </a>
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HrudayGurijala&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&count_private=true&theme=gruvbox" />
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://x.com/hrudaygg" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@gurijalahruday" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hruday-gurijala-61b472248/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gurijalahruday@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
 
+I am a final year student at IIIT Sri City. My projects are mainly focused on areas like development, embedded systems and machine learning.
 
-## 
-# Projects
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - I like trying out new technologies.</small>
+  <br />
+  <br />
+</div>
 
+## Currently Working on
+- [Formula 1 stats app using react-native](https://github.com/HrudayGurijala/formula1-stats-app)
 
-<a href="https://github.com/HrudayGurijala/Code-It-main" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=Code-It-main&theme=gruvbox" />
-</a>
-<a href="https://github.com/HrudayGurijala/learnflow" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=learnflow&theme=gruvbox" />
-</a>
-<a href="https://github.com/HrudayGurijala/blogmandi" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=blogmandi&theme=gruvbox" />
-</a>
-<a href="https://github.com/HrudayGurijala/PlantDiseaseRecognition" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HrudayGurijala&repo=PlantDiseaseRecognition&theme=gruvbox" />
-</a>
+<br />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HrudayGurijala.HrudayGurijala)
+## 📖Check out my latest article.
+ 
+* [Journey of a HTTP request — A Deep dive.](https://medium.com/@gurijalahruday/journey-of-a-http-request-a-deep-dive-98d7841abb5e) 
+
+<br />
+
+## My passions
+
+* Technology and software
+* Science 
+* Machine learning 
+* Electronics 
+* Sports
+* Formula 1
+
+<div ><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=vue&locale=en&count_private=true&include_all_commits=true"  /></div>  
+<p></p>
