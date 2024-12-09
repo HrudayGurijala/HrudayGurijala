@@ -1,14 +1,7 @@
-# Hi, I'm Hruday
-
-<div align="right">
-  <a href="https://buymeacoffee.com/gurijalahrk">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
 
 <p align="center">
   <a href="https://hrudaygurijala.netlify.app">
-    <img  src="" alt="logo" />
+    <img  src="https://raw.githubusercontent.com/HrudayGurijala/HrudayGurijala/main/github-header-image.png" alt="logo" />
   </a>
 </p>
 
@@ -60,5 +53,6 @@ I am a final year student at IIIT Sri City. My projects are mainly focused on ar
 * Sports
 * Formula 1
 
+## Github stats
 <div ><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=vue&locale=en&count_private=true&include_all_commits=true"  /></div>  
 <p></p>
