@@ -23,7 +23,7 @@
   </a>
 </p>
 
-I am a final year student at IIIT Sri City. My projects are mainly focused on areas like development, embedded systems and machine learning.
+I am a final year student at IIIT Sri City. My projects are mainly focused on areas like software development, embedded systems and machine learning.
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
