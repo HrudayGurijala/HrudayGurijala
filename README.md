@@ -23,10 +23,13 @@
   </a>
 </p>
 
-I am a final year student at IIIT Sri City. My projects are mainly focused on areas like software development, embedded systems and machine learning.
+🛠️ I am a final year student at IIIT Sri City. My projects are mainly focused on areas like software development, embedded systems and machine learning.
+
+🔎 i . My research includes devising a deep learning prediction model to reduce latency in V-MIMO network and ensuring security using ECC cryptographic alogorithm between the nodes.
+   ii . Efficient design of full adder using QCA.
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&card_width=300&hide=html" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - I like trying out new technologies.</small>
   <br />
@@ -40,11 +43,12 @@ I am a final year student at IIIT Sri City. My projects are mainly focused on ar
 
 ## 📖Check out my latest article.
  
+* [Why are there different file formats for digital images?](https://medium.com/@gurijalahruday/why-there-are-different-file-formats-for-digital-images-8841e9852ce0) 
 * [Journey of a HTTP request — A Deep dive.](https://medium.com/@gurijalahruday/journey-of-a-http-request-a-deep-dive-98d7841abb5e) 
 
 <br />
 
-## My passions
+## My Interests
 
 * Technology and software
 * Science 
@@ -56,3 +60,4 @@ I am a final year student at IIIT Sri City. My projects are mainly focused on ar
 ## Github stats
 <div ><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=vue&locale=en&count_private=true&include_all_commits=true"  /></div>  
 <p></p>
+<div ><img src="https://komarev.com/ghpvc/?username=HrudayGurijala&color=brightgreen&abbreviated=true&style=for-the-badge"  /></div> 
