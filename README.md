@@ -43,6 +43,7 @@
 
 ## 📖Check out my latest article.
  
+* [How git works?](https://medium.com/@gurijalahruday/how-git-works-28a70963bb51) 
 * [Why are there different file formats for digital images?](https://medium.com/@gurijalahruday/why-there-are-different-file-formats-for-digital-images-8841e9852ce0) 
 * [Journey of a HTTP request — A Deep dive.](https://medium.com/@gurijalahruday/journey-of-a-http-request-a-deep-dive-98d7841abb5e) 
 
