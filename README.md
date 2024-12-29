@@ -29,7 +29,7 @@
    ii . Efficient design of full adder using QCA.
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&card_width=300&hide=html" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&card_width=300&hide=html,jupyter%20notebook" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - I like trying out new technologies.</small>
   <br />
@@ -37,12 +37,13 @@
 </div>
 
 ## Currently Working on
-- [Formula 1 stats app using react-native](https://github.com/HrudayGurijala/formula1-stats-app)
+- [AI Travel assistant](https://github.com/HrudayGurijala/travel-assistant)
 
 <br />
 
 ## 📖Check out my latest article.
  
+* [Cryptography concepts for developers.](https://medium.com/@gurijalahruday/cryptography-concepts-for-developers-a90de71e384e) 
 * [How git works?](https://medium.com/@gurijalahruday/how-git-works-28a70963bb51) 
 * [Why are there different file formats for digital images?](https://medium.com/@gurijalahruday/why-there-are-different-file-formats-for-digital-images-8841e9852ce0) 
 * [Journey of a HTTP request — A Deep dive.](https://medium.com/@gurijalahruday/journey-of-a-http-request-a-deep-dive-98d7841abb5e) 
