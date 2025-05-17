@@ -16,14 +16,14 @@
 </div>
 
 ## Currently Working on
-- [AI Travel assistant](https://github.com/HrudayGurijala/travel-assistant)
-- Github productivity vscode extension
+- [Ping pong score tracker](https://github.com/HrudayGurijala/pp-score-2.0)
+- freelance work
 
 <br />
 
 ## 📖Check out my latest article.
  
-* [Cryptography concepts for developers.](https://medium.com/@gurijalahruday/cryptography-concepts-for-developers-a90de71e384e) 
+* [Cryptography concepts for developers.](https://medium.com/@gurijalahruday/cryptography-concepts-for-developers-a90de71e384e)
 
 <br />
 
