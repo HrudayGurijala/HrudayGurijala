@@ -1,34 +1,32 @@
+## 👋 Hi! I'm Hruday 😃
+- 📍 Hyderabad, India.
+- 📚 B.Tech Electronics and Communications @IIIT Sri City.
+- 💡 Software development and embedded systems enthusiast.
+- 🔎 Research in V-MIMO using DL and designing efficient QCA.<br/>
+- 📃 [Check out my resume.](https://drive.google.com/file/d/1HcD0pKnGyK_5XUhvWXsGpqHpHE_IjP5P/view)
 
+## 🔗 Links
+<p align="left">
+<a href="https://www.linkedin.com/in/hruday-gurijala-61b472248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://www.leetcode.com/HrudayGurijala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HrudayGurijala" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hrudaygg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="40" width="40" /></a>
+<a href="https://discord.gg/t0dan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="40" width="40" /></a>
+<a href="https://medium.com/@gurijalahruday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" /></a>
+</p>
 
-
-
-🛠️ I am a final year student at IIIT Sri City. My projects are mainly focused on areas like software development, embedded systems and machine learning.
-
-🔎 i . My research includes devising a deep learning prediction model to reduce latency in V-MIMO network and ensuring security using ECC cryptographic alogorithm between the nodes.
-   ii . Efficient design of full adder using QCA.
-
+## 📈 Stats
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&card_width=300&hide=html,jupyter%20notebook" alt="Top language used in my repos" />
+<img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=gotham&locale=en&count_private=true&include_all_commits=true"/> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&hide=html,jupyter%20notebook&theme=gotham&langs_count=8" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - I like trying out new technologies.</small>
-  <br />
-  <br />
+  <small>Languages used in my projects - I like trying out new technologies.</small>
 </div>
 
-## Currently Working on
+## 🍳 Currently Working on
 - [Ping pong score tracker](https://github.com/HrudayGurijala/pp-score-2.0)
 - freelance work
 
-<br />
-
-## 📖Check out my latest article.
- 
-* [Cryptography concepts for developers.](https://medium.com/@gurijalahruday/cryptography-concepts-for-developers-a90de71e384e)
-
-<br />
-
-
-## Github stats
-<div ><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=vue&locale=en&count_private=true&include_all_commits=true"  /></div>  
-<p></p>
+## 📖 Check out my latest article
+- [Cryptography concepts for developers.](https://medium.com/@gurijalahruday/cryptography-concepts-for-developers-a90de71e384e)
+  
 <div ><img src="https://komarev.com/ghpvc/?username=HrudayGurijala&color=brightgreen&abbreviated=true&style=for-the-badge"  /></div> 
