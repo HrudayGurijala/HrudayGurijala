@@ -23,10 +23,9 @@
 </div>
 
 ## 🍳 Currently Working on
-- [Ping pong score tracker](https://github.com/HrudayGurijala/pp-score-2.0)
 - freelance work
 
 ## 📖 Check out my latest article
-- [Cryptography concepts for developers.](https://medium.com/@gurijalahruday/cryptography-concepts-for-developers-a90de71e384e)
+- [Track your coding journey with autogit.](https://medium.com/@gurijalahruday/track-your-coding-journey-with-autogit-d2ba0422ca6d)
   
 <div ><img src="https://komarev.com/ghpvc/?username=HrudayGurijala&color=brightgreen&abbreviated=true&style=for-the-badge"  /></div> 
