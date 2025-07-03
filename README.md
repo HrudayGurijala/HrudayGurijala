@@ -5,6 +5,13 @@
 - 🔎 Research in V-MIMO using DL and designing efficient QCA.<br/>
 - 📃 [Check out my resume.](https://drive.google.com/file/d/1HcD0pKnGyK_5XUhvWXsGpqHpHE_IjP5P/view)
 
+## 🍳 Currently Working on
+- [ecommerce website using golang.](https://github.com/HrudayGurijala/ecommerce-go)
+- freelance work
+
+## 📖 Check out my latest article
+- [Track your coding journey with autogit.](https://medium.com/@gurijalahruday/track-your-coding-journey-with-autogit-d2ba0422ca6d)
+
 ## 🔗 Links
 <p align="left">
 <a href="https://www.linkedin.com/in/hruday-gurijala-61b472248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
@@ -21,11 +28,5 @@
   <br />
   <small>Languages used in my projects - I like trying out new technologies.</small>
 </div>
-
-## 🍳 Currently Working on
-- freelance work
-
-## 📖 Check out my latest article
-- [Track your coding journey with autogit.](https://medium.com/@gurijalahruday/track-your-coding-journey-with-autogit-d2ba0422ca6d)
   
 <div ><img src="https://komarev.com/ghpvc/?username=HrudayGurijala&color=brightgreen&abbreviated=true&style=for-the-badge"  /></div> 
