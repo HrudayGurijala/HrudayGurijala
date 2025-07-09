@@ -6,8 +6,7 @@
 - 📃 [Check out my resume.](https://drive.google.com/file/d/1HcD0pKnGyK_5XUhvWXsGpqHpHE_IjP5P/view)
 
 ## 🍳 Currently Working on
-- [ecommerce website using golang.](https://github.com/HrudayGurijala/ecommerce-go)
-- freelance work
+- Uber - case study
 
 ## 📖 Check out my latest article
 - [Track your coding journey with autogit.](https://medium.com/@gurijalahruday/track-your-coding-journey-with-autogit-d2ba0422ca6d)
