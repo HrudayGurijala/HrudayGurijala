@@ -6,7 +6,7 @@
 - [Check out my resume.](https://drive.google.com/file/d/1HcD0pKnGyK_5XUhvWXsGpqHpHE_IjP5P/view)
 
 ## Currently Working on
-- Uber - case study
+- [Twitter - case study](https://github.com/HrudayGurijala/x-casestudy-rg)
 
 ## Check out my latest article
 - [Track your coding journey with autogit.](https://medium.com/@gurijalahruday/track-your-coding-journey-with-autogit-d2ba0422ca6d)
@@ -32,8 +32,7 @@
 
 ## Stats
 <div align="center">
-<img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=gotham&locale=en&count_private=true&include_all_commits=true"/> 
+<img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=gotham&locale=en&count_private=true&include_all_commits=true"/> 
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&hide=html,jupyter%20notebook&theme=gotham&langs_count=8" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my projects - I like trying out new technologies.</small>
 </div>
