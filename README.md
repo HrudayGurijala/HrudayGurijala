@@ -29,10 +29,8 @@
 <!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" /> -->
 </a>
 </p>
-
-## Stats
-<div align="center">
+<!--<div align="center">
 <img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrudayGurijala&show_icons=true&show_icons=true&theme=gotham&locale=en&count_private=true&include_all_commits=true"/> 
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrudayGurijala&layout=compact&hide_title=1&hide=html,jupyter%20notebook&theme=gotham&langs_count=8" alt="Top language used in my repos" />
   <br />
-</div>
+</div>-->
